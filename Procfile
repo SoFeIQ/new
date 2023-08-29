@@ -1,1 +1,1 @@
-worker: SoFe @S44S4
+worker: bash SoFe
