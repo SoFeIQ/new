@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "SoFe",
+  "description": "This code by @S44S4",
+  "logo": "https://telegra.ph/file/4ef7d1ac46807d908f556.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jmthonr/temp",
+  "repository": "https://github.com/SoFeIQ/new",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -24,7 +24,7 @@
       "value": ""
     },
     "ENV": {
-      "description": "لا تغير هذه القيمه",
+      "description": "لا تغير هذه القيمه @S44S4",
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
